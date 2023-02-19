@@ -1,4 +1,4 @@
-# Toggle Display Mode
+# [Toggle Display Mode](https://toggle-display-mode-yj.netlify.app/)
 This is a simple web application that allows you to toggle between light and dark mode. When the user clicks on the sun/moon icon, the background color, text color, and the icon will change between light and dark mode.
 
 ## Getting Started
